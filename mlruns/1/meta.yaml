@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/15379372864/ContAgil/jupyter/Curso%20ML%20Python/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: cluster_CARF

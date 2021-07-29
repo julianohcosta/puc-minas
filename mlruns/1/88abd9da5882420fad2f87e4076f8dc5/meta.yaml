@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/15379372864/ContAgil/jupyter/Curso%20ML%20Python/mlruns/1/88abd9da5882420fad2f87e4076f8dc5/artifacts
+end_time: 1625837440402
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 88abd9da5882420fad2f87e4076f8dc5
+run_uuid: 88abd9da5882420fad2f87e4076f8dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625837435115
+status: 3
+tags: []
+user_id: '15379372864'
